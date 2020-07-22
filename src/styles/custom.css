@@ -1,0 +1,31 @@
+.pull-left {
+  float: left;
+}
+.pull-right {
+  float: right;
+}
+.nav-header-fixed {
+  position: 'fixed';
+  z-index: 1;
+  width: '100%';
+}
+
+.nav-profile {
+  font-weight: bold;
+  color: white;
+  margin: 0px 20px;
+}
+.logo-s {
+  font-size: 62px;
+  color: #18a1fb;
+}
+.logo-m {
+  color: #18a1fb;
+  font-size: 100px;
+}
+
+.logo-l {
+  color: #18a1fb;
+  font-size: 200px;
+  margin-right: 100px;
+}
